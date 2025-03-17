@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to JohnBank accounts related QA APIs"
+  contactDetails:
+    name: "John - QA Lead"
+    email: "trinhdong1098@gmail.com"

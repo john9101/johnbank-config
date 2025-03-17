@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to JohnBank accounts related local APIs "
+  contactDetails:
+    name: "John - Developer"
+    email: "trinhdong1098@gmail.com"

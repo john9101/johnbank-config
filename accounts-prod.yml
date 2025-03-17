@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to JohnBank accounts related prod APIs"
+  contactDetails:
+    name: "John - Product Owner"
+    email: "trinhdong1098@gmail.com"

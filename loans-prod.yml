@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to JohnBank loans related prod APIs"
+  contactDetails:
+    name: "John - Product Owner"
+    email: "trinhdong1098@gmail.com"

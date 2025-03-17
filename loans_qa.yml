@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to JohnBank loans related QA APIs"
+  contactDetails:
+    name: "John - QA Lead"
+    email: "trinhdong1098@gmail.com"
