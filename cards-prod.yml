@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to JohnBank cards related prod APIs"
+  message: "Welcome to JohnBank cards related production APIs"
   contactDetails:
     name: "John - Product Owner"
     email: "trinhdong1098@gmail.com"
