@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to JohnBank cards related local 123 APIs"
+  message: "Welcome to JohnBank cards related local APIs"
   contactDetails:
     name: "John - Developer"
     email: "trinhdong1098@gmail.com"
