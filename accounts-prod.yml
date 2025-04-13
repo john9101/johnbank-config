@@ -5,4 +5,4 @@ accounts:
   message: "Welcome to JohnBank accounts related prod APIs"
   contactDetails:
     name: "John - Product Owner"
-    email: "trinhdong1098@gmail.com"
+    email: "{cipher}8bda377bc3ff49ce2709f036f0ae4034c0fb76115f9166165ec70d5c1c555c240ef4813f9cd79b30e93474bf696d2ae6"
